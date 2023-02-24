@@ -1,0 +1,116 @@
+[
+    {
+        "title": "Portfolio Website 2023",
+        "description": "Renewing my old portfolio website to learn more advanced web dev tech. ",
+        "category": "Web Dev",
+        "tools": ["React", "TypeScript", "HTML", "CSS", "NextJS", "Redux", "ESLint", "Material UI", "Vercel"],
+        "status": "current",
+        "pinned": true,
+        "date": "2023-02-20"
+    },
+    {
+        "title": "Portfolio Website 2021",
+        "description": "My very first personal portfolio website project to learn the fundamentals of React. ",
+        "category": "Web Dev",
+        "tools": ["React", "JavaScript", "HTML", "CSS", "Material UI", "Vercel"],
+        "status": "past",
+        "pinned": false,
+        "date": "2021-09-01"
+    },
+    {
+        "title": "Trello Cloning",
+        "description": "This was an academic group project aimed at gaining familiarity with the AGILE methodology for software development. The project entailed the duplication of the website Trello for academic purposes.",
+        "category": "Web Dev",
+        "tools": ["React", "JavaScript", "HTML", "CSS", "Material UI", "Java", "Spring", "Postman"],
+        "status": "past",
+        "pinned": true,
+        "date": "2022-08-25"
+    },
+    {
+        "title": "Mini Blog Website",
+        "description": "This was a group project to learn serverside scripting with PHP. ",
+        "category": "Web Dev",
+        "tools": ["PHP", "MYSQL", "MAMP"],
+        "status": "past",
+        "pinned": false,
+        "date": "2021-09-04"
+    },
+    {
+        "title": "Park Bom Academy Website Project",
+        "description": "This will be a website build project for my mother's academic institution. This is planned to be done in May to June of 2023.",
+        "category": "Web Dev",
+        "tools": ["REACT", "AWS", "MATERIALUI"],
+        "status": "future",
+        "pinned": false,
+        "date": "0000-00-00"
+    },
+
+
+
+    {
+        "title": "Car Price Prediction",
+        "description": "At present, the prices of both new and used cars have seen a substantial increase. As a result, this project was initiated to determine the most opportune time for the acquisition of my first vehicle.",
+        "category": "Data Science",
+        "tools": ["R", "Python", "Jupyter", "ScikitLearn",  "Pandas", "Numpy", "RStudio"],
+        "status": "current",
+        "pinned": false,
+        "date": "2023-02-05"
+    },
+    {
+        "title": "Various Aspects of Impacts on Students' Academic Performance",
+        "description": "This was a study of which factor had the most impact on students' academic performances as well as to gain understanding on various R functions. ",
+        "category": "Data Science",
+        "tools": ["R", "RSTUDIO"],
+        "status": "past",
+        "pinned": true,
+        "date": "2022-12-05"
+    },
+    {
+        "title": "Cryptocurrency Predicting Models",
+        "description": "This project started back in 2020 to learn both the backend and theories of cryptocurrencies and learn how to read in via API and machine learning. ",
+        "category": "Data Science",
+        "tools": ["PYTHON", "Java", "BINANCE", "INTELLIJ", "JUPYTER", "SCIKITLEARN"],
+        "status": "current",
+        "pinned": false,
+        "date": "2020-09-01"
+    },
+
+
+
+    {
+        "title": "Synchrotron Project",
+        "description": "Tests on heavy metal concentrations in mussel were performed at the Canadian Light Source with particle accelerator in Saskatoon, Canada. A member of the team from the beginning of the project with designing project to the end travelling to Saskatoon visiting CLS in order to perform the tests and presenting for audiences including scientists.",
+        "category": "Other",
+        "tools": ["BioXAS", "Canada Light Source", "Particle Accelerator"],
+        "status": "past",
+        "pinned": false,
+        "date": "2020-05-1"
+    },
+    {
+        "title": "AWS",
+        "description": "This is my academic project to learn the basis of AWS. ",
+        "category": "Other",
+        "tools": ["AWS", "Python", "Flask"],
+        "status": "current",
+        "pinned": false,
+        "date": "0000-00-00"
+    },
+    {
+        "title": "Game-dev: Racing game",
+        "description": "This was a grouped academic project developing a full video game. Our team had created a simple racing game in a open-world. ",
+        "category": "Other",
+        "tools": ["UNITY", "C#"],
+        "status": "past",
+        "pinned": false,
+        "date": "2022-10-1"
+    },
+    {
+        "title": "Haskell Project",
+        "description": "This will be an academic project to learn the fundamentals of programming languages especially functional languages with Haskell. ", 
+        "category": "Other",
+        "tools": ["HASKELL"],
+        "status": "past",
+        "pinned": false,
+        "date": "0000-00-00"
+    }
+]

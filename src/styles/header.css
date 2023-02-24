@@ -1,0 +1,46 @@
+header {
+  position: fixed;
+  top: 4em;
+  z-index: 1;
+  width: 88%;
+  margin-left: 6%;
+  margin-right: 6%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header-left {
+  font-size: 1rem;
+  text-decoration: none;
+}
+.header-left > * {
+  text-decoration: none;
+  color: #282827;
+}
+
+.header-right {
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+}
+
+.header-right > * > * {
+  text-decoration: none;
+  color: #282827;
+}
+.header-right-tabs > * {
+  margin-left: 4em;
+}
+.header-right-settings > * {
+  margin-left: 1em;
+  border: none;
+  background-color: transparent;
+}
+
+.header-right-tabs,
+.header-right-settings {
+  display: flex;
+  flex-direction: row;
+  margin-left: 3em;
+}
