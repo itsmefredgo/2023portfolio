@@ -30,7 +30,7 @@ export default function MainIntroduction() {
         <div>
           Hi there,
           <br />
-          I'm <span className="highlight">Donghyeon (Frederick) Go</span>,
+          I&apos;m <span className="highlight">Donghyeon (Frederick) Go</span>,
           <br />
           Data Scientist + Web Dev + Programmer
           <br />
